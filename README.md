@@ -1,1 +1,2 @@
-# jupiter_python
+## Jupiter Notebook (python)
+### Homework from GB
